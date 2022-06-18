@@ -254,6 +254,15 @@ ul {
 	margin: 1px;
 }
 
+.portfolio-btn:hover {
+	background-color: var(--accent-color);
+	color: #ffffff;
+}
+.portfolio-btn:focus {
+	background-color: var(--accent-color);
+	color: #ffffff;
+}
+
 .portfolio-item {
 	box-sizing: border-box;
 
