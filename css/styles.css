@@ -18,11 +18,11 @@ ul {
 	--text-color: #757575;
 }
 
-.curent {
+.header-menu-link.curent {
 	color: var(--accent-color);
 }
 
-Body {
+.logo-link Body {
 	color: var(--title-color);
 	font-family: "Roboto", Arial, sans-serif;
 	text-decoration: none;
