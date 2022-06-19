@@ -248,8 +248,8 @@ body {
 	letter-spacing: 0.03em;
 	color: #212121;
 
-	width: 128px;
-	height: 38px;
+	/* width: 128px;
+	height: 38px; */
 	cursor: pointer;
 	border: none;
 
