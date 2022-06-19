@@ -16,6 +16,7 @@ sans-serif; */
 
 body {
 	font-family: "Roboto", sans-serif;
+	font-style: normal;
 }
 
 .header-menu-link.curent {
@@ -203,7 +204,7 @@ body {
 
 .footer-addres {
 	font-family: "Roboto", sans-serif;
-	text-decoration: none;
+	font-style: normal;
 }
 .footer-logo-link {
 	text-decoration: none;
